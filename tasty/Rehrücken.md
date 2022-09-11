@@ -16,5 +16,4 @@ Das in Buttermilch eingelegte Wild abwaschen, abtupfen und parieren. Salzen und 
 
 Dazu gekochte Maronen und Preiselbeeren reichen
 
-#receipe #rezept #kochen #cooking #rehrücken 
-
+#receipe #rezept #kochen #cooking #rehrücken #fleisch 

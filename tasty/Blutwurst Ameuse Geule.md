@@ -11,4 +11,4 @@ Mit Parmesan, gehackten & gerösteten Pinienkernen & frisch gezupften Basilikumb
 
 Guten Appetit
 
-#receipe #rezept #kochen #cooking #blutwurst
+#receipe #rezept #kochen #cooking #blutwurst #fleisch 
