@@ -21,4 +21,4 @@ Mit Sesam, Sellerie, Grünzeug und Bohnen verrühren und alles gründlich unterm
 
 Voilà.
 
-#receipe #rezept #sellerie #salat
+#receipe #rezept #sellerie #salat #kochen #cooking
