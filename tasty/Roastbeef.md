@@ -30,4 +30,7 @@ Grilltomaten
 Beim Roastbeef Haut und Sehnen abschneiden. Salzen, pfeffern und bei 250° im Backofen scharf anbraten. Ofen auf 90° zurückschalten und ca 60 Minuten braten. (Fleischthermometer ca. 60°). Etwas ruhen lassen und in Scheiben schneiden.
 
 ### Vor- und Zubereitung Soße
-Sellerie, Möhre und Zwiebeln schälen und in Würfel schneiden. Haut, Sehnen und sonstige Abgänge gut anbraten. Das Gemüse dazugeben und rösten bis die Zwiebeln leicht braun sind
+Sellerie, Möhre und Zwiebeln schälen und in Würfel schneiden. Haut, Sehnen und sonstige Abgänge gut anbraten. Das Gemüse dazugeben und rösten bis die Zwiebeln leicht braun sind.
+
+### Vor- und Zubereitung Grilltomate
+Tomaten waschen, Strunk entfernen, halbieren, Salz & Pfeffern, mit Käse bestreuen und unter dem Grill garen.
