@@ -1,7 +1,7 @@
+aus dem Kochkurs mit Wolfgang Tabel im Waldhotel Heiligenhaus vom [[2023-03-22]]
 
 rosa gebraten, an Rotweinsauce, Grilltomaten, Bohnen im Speckmantel, Kartoffelbaumkuchen
 
-aus dem Kochkurs mit Wolfgang Tabel im Waldhotel Heiligenhaus vom [[2023-03-22]]
 
 ## Zutaten (für 4 Personen)
 Roastbeef
