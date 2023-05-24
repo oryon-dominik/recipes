@@ -1,6 +1,8 @@
 
 aus dem Kochkurs mit Wolfgang Tabel im Waldhotel Heiligenhaus vom [[2023-03-22]]
 
+Gebratene Riesengarnelen mit Curry und geschmortem Sellerie.
+
 ## Zutaten (für 4 Personen)
 Garnelen Selleriecurry
 - 16 Riesengarnelen (geschält, Darm entfernt)

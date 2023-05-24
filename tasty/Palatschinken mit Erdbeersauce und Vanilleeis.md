@@ -1,6 +1,8 @@
 
 aus dem Kochkurs mit Wolfgang Tabel im Waldhotel Heiligenhaus vom [[2023-03-22]]
 
+Palatschinken mit Marzipanfüllung Erdbeersauce, Eierlikör und Bourbon-Vanilleeis.
+
 ## Zutaten
 
 Teig
