@@ -56,3 +56,6 @@ Die Marzipanrohmaße mit Zuckersirup, Zitronensaft und Kirschwasser schaumig rü
 Milch und Sahne mit aufgeschnittener Vanilleschote aufkochen. Die Schote auskratzen. 
 Auf dem Wasserbad Eigelbe mit Zucker verrühren und die heiße Flüssigkeit dazugeben. Schnell verrühren, ständig rühren, bis Bindung entsteht.
 Durch ein Sieb passieren, kaltstellen und mit der Eismaschine frieren.
+
+
+#receipe #rezept #kochen #cooking #eis #nachtisch #dessert #waldhotel

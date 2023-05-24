@@ -56,3 +56,6 @@ Bohnen putzen und in Salzwasser mit dem bohnenkraut bissfest kochen. Bündchenwe
 
 ### Kartoffelbaumkuchen
 Kartoffeln in Salzwasser kochen, wenn sie gar sind, druch die KArtoffelpresse geben, kalt werden lassen. Eigelb mit Crème Fraîche und Butter unter die kalte Kartoffelmasse heben. Eiweß aufschlagen, locker unterheben. Die Maße 2mm dick auf ein Backblech streichen und unter den Grillstäben braun backen. Das so oft wiederholen, bis die Maße verbraucht ist. Variante: die Lagen einzeln erkalten lassen, mit Räucherlachscrème, Geflügellebercrème oder ähnlichem füllen, in kleine Würfel schneiden und als Petit Fours servieren.
+
+
+#receipe #rezept #kochen #cooking #roastbeef #bohnen #waldhotel

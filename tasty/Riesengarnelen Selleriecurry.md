@@ -42,3 +42,6 @@ Riesengarnelen mit Curry, grobem Salz & Pfeffer würzen und in heißem Olivenöl
 
 ### Anrichten
 Die geschmorten Selleriestifte nebeneinander auslegen, je drei Riesengarnelen darüber. Von der Sauce mit Löffel den Schaum abnehmen und rund um Garnelen anrichten. Mit Apfelwürfeln bestreuen und mit frittiertem Selleriezweig garnieren.
+
+
+#receipe #rezept #kochen #cooking #sellerie #garnelen #waldhotel
