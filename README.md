@@ -7,7 +7,7 @@ with pictures for my recipes (make these pictures uploadable with a nice fronten
 add reproduceable ansible roles for that as well..
 
 
-TODO: add receipies for:
+TODO: add recipes for:
 
 - Omas Blumenkohl mit Kalbsschnitzel
 - Ravioli mit Basilikum Pesto, Pinienkernen gefüllt mir Gorgonzola Ricotta Spinat.
