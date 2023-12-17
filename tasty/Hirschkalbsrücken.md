@@ -14,4 +14,5 @@ Suppengrün (kleines Stück Sellerie, Möhre und zwei Zwiebeln oder Schalotten) 
 Durch ein leinentuch mit Sieb abstreichen und zum Schluss evtl. etwas abbinden.
 
 ## Das Fleisch - Pfanne & im Ofen
-Den Hirschkalbsrücken in Butterschmalz von allen Seiten anbraten
+Den Hirschkalbsrücken in Butterschmalz von allen Seiten anbraten.
+Im Ofen 180° auf Kerntemperatur 54° bringen.
