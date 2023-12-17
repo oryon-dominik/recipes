@@ -19,5 +19,7 @@ TODO: add receipies for:
 - Wild mit Rotkohl Klößen und Maronen
 - Toast mit Banane, Mett & Curry
 - (Bella) Rhabarber Creme + Omas Apfelmus rote Grütze
-- Käseplätzchen (+ Variante mit Sativa)
+- (Bella) Tiramisu Bällchen
+- (Bella) Himbeer Schoko Traum
+- (Bella) Käseplätzchen (+ Variante mit Sativa)
 - Blätterteigschnecken mit Varianten
