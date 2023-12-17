@@ -16,8 +16,8 @@ Zum Schluss mit dem aufgefangenen Fleischsaft und gesiebtem Mehl oder Stärke ab
 
 ## Das Fleisch - Pfanne & im Ofen
 Den Hirschkalbsrücken in Butterschmalz von allen Seiten kräftig anbraten.
-Im Ofen 180° auf Kerntemperatur 54° bringen.
+Im Ofen 180° (neben den Krokotten) auf Kerntemperatur 54° bringen.
 Zehn Minuten in Alufolie warmgestellt ruhen lassen.
 Den Saft aus der Alufolie auffangen und damit die Sauce finalisieren.
 
-Aufschneiden, auf das Salatbouquet, Festessen!
+Aufschneiden, auf dem Salatbouquet richten, Festessen!
