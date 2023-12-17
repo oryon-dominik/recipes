@@ -7,7 +7,7 @@ Der fertige Hirschkalbsrücken (mind. 2 kg) wird auf einem Salatbett angerichtet
 
 ## Das Fleisch - Vorbereitung
 Das Fleisch parieren (und evtl. vom Knochen lösen) und Haut und Sehnen mit ein paar guten Stücken Fleisch zur Seite legen.
-Das Fleisch in Buttermilch über Nacht einlegen.
+Das Fleisch in Buttermilch über Nacht einlegen. (das muss auf den Prüfstand, würde ja aktuell eher zu einer einfachen Gewürzmarinade tendieren)
 
 ## Die Sauce
 Suppengrün (kleines Stück Sellerie, Möhre und zwei Zwiebeln oder Schalotten) mit Schale in Würfel schneiden. Die zur Seite gelegten Teile des Hirschchens - gut anbraten. Das Gemüse dazugeben, rösten bis die Zwiebeln leicht braun sind, würzen (Lorbeer, Nelken, zerdrückte Pfefferkörner, Piment, zerdrückte Knoblauchzehe, Tomatenmark). Mit Wein, Brühe und geliertem Fonds Ablöschen. Wieder auffüllen. Das Ganze mindestens dreimal wiederholen. Durch ein Leinentuch mit Sieb abstreichen. Kaltstellen.
