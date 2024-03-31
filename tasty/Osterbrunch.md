@@ -1,9 +1,9 @@
-#receipe #rezept #kochen #cooking #ostern #brunch #frühstück #eiercreme #forellentatar
+#receipe #rezept #kochen #cooking #ostern #brunch #frühstück
 
 Der klassische Brunch. Traditionell an Ostern.
 
-- Stuten, Mürbchen mit Rosinen, Körnerbrötchen, Sandkuchen.
 - Bemalte Eier (obviously).
+- Stuten, Mürbchen mit Rosinen, Körnerbrötchen, Sandkuchen.
 - Schinken & Wurst Platte
 	- Seranoschinken,
 	- Fleischwurst,
@@ -34,18 +34,8 @@ Der klassische Brunch. Traditionell an Ostern.
 - Marmelade, Honig.
 - Rührei mit Feta, Cocktailtomaten und Schnittlauch.
 - Salate
-	- Forellen Avocadotatar,
-	- Eiercrème.
+	- [Forellen Avocadotatar](./Forellen-Avocadotatar),
+	- [Eiercrème](./Eiercreme.md).
 - Kaffee, Wasser, frischer Orangensaft.
 - Die Osterschokolade (jeder zumindest ein Häschen).
-
----
-
-## Forellen Avocadotatar
-
-Geräuchertes Forellenfilet, Petersilie & Dill hacken. Avocado würfeln, mit Zitronensaft beträufeln.
-Mit etwas Öl vermengen. Mit Salz & Pfeffer abschmecken.
-
-## Eiercréme
-
-Gewürzgurken fein würfeln. Sahnequark & Frischkäse zu gleichen Teilen mit etwas Gurkenwasser, Currywürze und Senf glattrühren. Mit feingehackten Käutern - etwa Schnittlauch - zusammen mischen. Gekochte Eier ebenso hacken und unterheben. Mit Salz & Pfeffer abschmecken.
+- Zum Finale gibt es Mittags die [Kartoffelsuppe](./Kartoffelsuppe).
