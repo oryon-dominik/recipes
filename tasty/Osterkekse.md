@@ -1,31 +1,18 @@
 #receipe #rezept #kochen #cooking #ostern #plätzchen #cookies
 
+## Keksteig
 
-Meine Frau hat ein Rezept von [Franziska](https://www.einfachkochen.de/autoren/franziska) nachgebacken.
-Sehr lecker.
-
-## Vanille
-
-200 g Mehl (405)
+je Sorte:
 120 g Zucker
-½ Vanilleschote
-125 g kalte Butter
+Halbe Vanilleschote
+halbes Paket Butter, kalt
 Ei
 
-Mehl in eine Schüssel sieben. 
-Zucker, Vanilleschotenmark und die kalte Butter hinzu. Kneten.
-Ei hinzu. Fertig kneten.
+dann:
+Vanilleplätzchenmehl: 200 g Mehl (405)
+Schokoplätzchenmehl: 150 g Mehl (405) + 50 g Kakao
 
-## Schoko
-
-150 g Mehl (405)
-50 g Kakao
-120 g Zucker
-¼ Vanilleschote
-125 g kalte Butter
-Ei
-
-Mehl mit Kakao in eine Schüssel sieben.
+jeweiliges Mehl in eine Schüssel sieben. 
 Zucker, Vanilleschotenmark und die kalte Butter hinzu. Kneten.
 Ei hinzu. Fertig kneten.
 
