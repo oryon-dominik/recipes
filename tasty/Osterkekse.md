@@ -1,7 +1,7 @@
 #receipe #rezept #kochen #cooking #ostern #plätzchen #cookies
 
 
-Meine Frau hat ein Rezept von [Franziska auf einfachkochen.de](https://www.einfachkochen.de/autoren/franziska) nachgebacken.
+Meine Frau hat ein Rezept von [Franziska](https://www.einfachkochen.de/autoren/franziska) nachgebacken.
 Sehr lecker.
 
 ## Vanille
