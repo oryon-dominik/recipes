@@ -13,18 +13,24 @@ Sehr lecker.
 Ei
 
 Mehl in eine Schüssel sieben. 
-Zucker, Vanilleschotenmark und die kalte Butter hinzugeben. Kneten.
-Zuletzt das Ei hinzugeben und alles zu einem kompakten Teig kneten.
+Zucker, Vanilleschotenmark und die kalte Butter hinzu. Kneten.
+Ei hinzu. Fertig kneten.
 
-## Schokokekse
+## Schoko
 
 150 g Mehl (405)
-50 g Back-kakao
+50 g Kakao
 120 g Zucker
 ¼ Vanilleschote
 125 g kalte Butter
 Ei
 
-Für den Schokokeksteig das Mehl zusammen mit dem Backkakao in eine Schüssel sieben. Den Zucker, das Mark der ausgekratzten Vanilleschote und die Butter in Stückchen dazugeben und alles kneten. Das Ei aufschlagen und unter den Teig kneten.
+Mehl mit Kakao in eine Schüssel sieben.
+Zucker, Vanilleschotenmark und die kalte Butter hinzu. Kneten.
+Ei hinzu. Fertig kneten.
 
-Mit etwas Abstand zueinander die Plätzchen auf die Bleche legen. Vor dem Backen die Plätzchen nochmals 30 Minuten kühlstellen, dann laufen sie nicht auseinander beim Backen. Den Backofen auf 200 Grad Ober- und Unterhitze (Umluft 180 Grad) vorheizen. Die Plätzchen je Blech 10 Minuten backen. Vollständig abkühlen lassen.
+## Backen
+
+Plätzchen mit Abstand aufs Blech. 
+30 Minuten kühlstellen.
+Im auf 200° vorgeheizten Backofen 10 Minuten backen.
