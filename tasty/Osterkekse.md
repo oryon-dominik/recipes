@@ -4,22 +4,26 @@
 Meine Frau hat ein Rezept von [Franziska auf einfachkochen.de](https://www.einfachkochen.de/autoren/franziska) nachgebacken.
 Sehr lecker.
 
-## Vanillekekse
-200 g Weizenmehl (Typ 405)
+## Vanille
+
+200 g Mehl (405)
 120 g Zucker
 ½ Vanilleschote
 125 g kalte Butter
-1 Ei (Größe M)
+Ei
 
-Für den Vanillekeksteig das Mehl in eine Rührschüssel sieben. Den Zucker, das Mark der ausgekratzten Vanilleschote und die kalte Butter in Stückchen hinzugeben. Alles für 5 Minuten kneten. Zuletzt das Ei hinzugeben und alles zu einem kompakten Teig kneten.
+Mehl in eine Schüssel sieben. 
+Zucker, Vanilleschotenmark und die kalte Butter hinzugeben. Kneten.
+Zuletzt das Ei hinzugeben und alles zu einem kompakten Teig kneten.
 
 ## Schokokekse
-150 g Weizenmehl (Typ 405)
-50 g Backkakao
+
+150 g Mehl (405)
+50 g Back-kakao
 120 g Zucker
 ¼ Vanilleschote
 125 g kalte Butter
-1 Ei (Größe M)
+Ei
 
 Für den Schokokeksteig das Mehl zusammen mit dem Backkakao in eine Schüssel sieben. Den Zucker, das Mark der ausgekratzten Vanilleschote und die Butter in Stückchen dazugeben und alles kneten. Das Ei aufschlagen und unter den Teig kneten.
 
