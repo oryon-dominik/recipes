@@ -22,4 +22,4 @@ Den Teig in eine gefettete Kastenform füllen.
 
 Kuchen bei leichter Hitze (180°) mit wenig Ovberhitze etwa 70 Minuten gar backen.
 
-In der Form abkühlen lassen und mit Puderzuicker benetzen.
+In der Form abkühlen lassen und mit Puderzucker benetzen.
