@@ -47,9 +47,14 @@ Waffeln aus kandierten Süßkartoffeln mit geräuchertem Ahornsirup, Walnüssen 
 ---
 *Butter*
 
+Backofen vorheizen auf 105-110°.
 Stängel & Blätter hacken, Knospen grinden.
-Backofen vorheizen auf 105-110, Material in einem Bratschlauch 30-40 Minuten decarboxylieren. Abkühlen lassen.
-Auf kleiner Temperatur langsam zu kleinen Bläschen aufkochen, dabei 300ml Wasser portionsweise hinzugeben, es soll ja nichts verbrennen.
-250g gesalzene Butter (wegen des höheren Schmelzpunktes)
- + 50-100ml pro Stunde köcheln
-Seituch
+Material in einem Bratschlauch 30-40 Minuten decarboxylieren.
+Abkühlen lassen.
+
+Auf kleiner Temperatur in einem Topf 250g gesalzene Butter (wegen des höheren Schmelzpunktes) mit dem Gras langsam aufkochen, bis sich kleinste Bläschen bilden, dabei 300ml Wasser portionsweise hinzugeben, um das Material zu bedecken, es soll ja nichts verbrennen.
+
+Das ganze so lange köcheln, wie es geht (5-10h und mehr).
+Dabei pro Stunde etwa 50-100ml Wasser hinzugeben, das immer genügend Flüssigkeit vorhanden ist und weiterköcheln lassen.
+
+Durch ein feines Tuch in eine Schüssel abseien einglasen und in den Kühlschrank stellen.
