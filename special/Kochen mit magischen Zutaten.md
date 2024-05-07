@@ -64,7 +64,7 @@ g = 15  # how much weed will be added to the butter (in grams)
 potential = 15  # the percentage share of THC in the weed, usally varies
 butter = 250  # default weight of one package of butter in g
 
-total_thc_mg = (g/1000) * (potential/100)
+total_thc_mg = (g * 1000) * (potential/100)
 a_gram_butter_has_mg = total_thc_mg / butter  # This is the dose in mg per gram butter.
 
 # For an average to advanced experience take 10-30 mg per portion.
