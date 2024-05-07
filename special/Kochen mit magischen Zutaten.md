@@ -60,14 +60,24 @@ Dabei pro Stunde etwa 50-100ml Wasser hinzugeben, das immer genügend Flüssigke
 Durch ein feines Tuch in eine Schüssel abseien, einglasen und in den Kühlschrank stellen.
 
 ```python
-g = 15  # how much weed will be added to the butter (in grams)
-potential = 15  # the percentage share of THC in the weed, usally varies
-butter = 250  # default weight of one package of butter in g
+def cook(
+	g: int = 5,  # how much weed will be added to the butter (in grams)
+	potential = 19,  # how 'strong' is the breed (percentage share of THC)
+	butter = 250  # default weight of one package of butter in g
+):
+	"""
+	For an average to advanced experience take 10-30 mg per portion.
+	So calculate carefully how much your dish should be cooked with.
 
-total_thc_mg = (g * 1000) * (potential/100)
-a_gram_butter_has_mg = total_thc_mg / butter  # This is the dose in mg per gram butter.
+	For the defaults the result is 3.8 mg per gram butter.
+	A full tablespoon already has 14grams (~= 50mgTHC!)
 
-# For an average to advanced experience take 10-30 mg per portion.
-# So calculate carefully how much your dish should be cooked with.
-# Less is more ;-)
+	THAT IS A LOT and usally enough for 3-5 people. Be careful.
+	Less is more ;-)
+	"""
+	total_thc_mg = (g * 1000) * (potential/100)
+	a_gram_butter_has_mg = total_thc_mg / butter 
+	# This is the dose in mg per gram butter.
+	return a_gram_butter_has_mg
+
 ```
