@@ -49,6 +49,7 @@ Waffeln aus kandierten Süßkartoffeln mit geräuchertem Ahornsirup, Walnüssen 
 
 Stängel & Blätter hacken, Knospen grinden.
 Backofen vorheizen auf 105-110, Material in einem Bratschlauch 30-40 Minuten decarboxylieren. Abkühlen lassen.
+Auf kleiner Temperatur zu kleinen Bläschen aufkochen, Wasser hinzugeben, dass nichts verbrennt.
 250g gesalzene Butter (wegen des höheren Schmelzpunktes)
-300ml Wasser + 50ml pro Stunde köcheln
+300ml Wasser + 50-100mml pro Stunde köcheln
 Seituch
