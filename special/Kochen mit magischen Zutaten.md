@@ -43,3 +43,6 @@ Mangogelee auf Beeren auf Spekulatiuscrumble mit Kokosnussschlagsahne und Lemonh
 Blätterteigsamoroso mit in CBD Honig geschlagenem Ziegenkäse und Haselnuss Gremolata mit viel Sauce aus Feigenkonfitüre und Nelken-Hazegastrique
 
 Waffeln aus kandierten Süßkartoffeln mit geräuchertem Ahornsirup, Walnüssen und Kürbisblüten
+
+---
+*Butter*
