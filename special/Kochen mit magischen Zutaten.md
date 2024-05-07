@@ -46,3 +46,4 @@ Waffeln aus kandierten Süßkartoffeln mit geräuchertem Ahornsirup, Walnüssen 
 
 ---
 *Butter*
+250g gesalzene Butter (wegen den höheren Schmelzpunktes)
