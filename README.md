@@ -3,7 +3,6 @@
 TODO: create a recipe blog
 
 with pictures for my recipes (make these pictures uploadable with a nice frontend from mobile)
-
 add reproduceable ansible roles for that as well..
 
 
@@ -13,7 +12,7 @@ TODO: add recipes for:
 - Ravioli mit Basilikum Pesto, Pinienkernen gefüllt mir Gorgonzola Ricotta Spinat.
 - Rumpsteak + Pommes + Kräuterbutter + Gemüse
 - Schinken-Sahne-Sauce (Paste mit Petersilie + angebratener Mehlschwitze)
-- Spaghetti al Tonno
+- Spaghetti al Tonno, again neuestes Rezept
 - Gratin oder Auflauf von Bella
 - Cordon Bleu
 - Wild mit Rotkohl Klößen und Maronen
