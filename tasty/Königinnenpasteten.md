@@ -10,3 +10,5 @@ Die Füllung
 
 Frische Petersilie
 Frischer Spinatsalat mit Parmesan, Cocktailtomaten und etwas Obst.
+
+Danach Vanille-Mango-Eis.
