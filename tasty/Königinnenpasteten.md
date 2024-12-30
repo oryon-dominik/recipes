@@ -4,9 +4,9 @@ Gerne zu Sylvester.
 #receipe #rezept #kochen #cooking #sylvester #pastete
 
 Die Füllung
-	Hähnchen
-	Zwiebel-Sahne-Weißwein Sauce
+	Hähnchenbrustwürfel
+	Zwiebel-Sahne-Weißwein/Sherry Sauce
 	Pilze
 
 Frische Petersilie
-	
+Frischer Spinatsalat mit Parmesan, Cocktailtomaten und etwas Obst.
