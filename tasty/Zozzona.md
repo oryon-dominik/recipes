@@ -8,4 +8,4 @@ Pfefferkörner.
 Passierte Tomaten.
 
 Pasta kochen.
-Währenddessen in einer Metallschüssel zwei Eier mit Pecorino, schwarzem Pfeffer und  verrühren mit 
+Währenddessen in einer Metallschüssel zwei Eier mit Pecorino und schwarzem Pfeffer verrühren. Die Metallschüssel über dem Nudeltopf erhitzen und die Sauce, sowie die Pasta einrühren, damit das Ei nicht stockt.
