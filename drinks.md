@@ -37,3 +37,9 @@ Of course I like 'em all on the rocks..
 
 **Stinger**
 - Fresh, warm nettles Tea and Gin.
+
+
+- "Double D", for Decay and Democracy. Coca Cola mit einem Schuss X-tc  
+- "The grandfather", Pürierter BigMac (ohne Gurken) mit einer Kugel Kirsch-Vanille Eis und 1dl Stroh 88  
+- "Freedom", Lakritz; Tomatensaft; Sahne; +N20 Spender  
+- "B(l)ack to the Void" Mezcal, Agavensirup, Limettensaft und Aktivkohle
