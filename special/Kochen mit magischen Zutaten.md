@@ -1,18 +1,18 @@
-Menu: Kochen mit Gras
+Menu: Kochen mit magischen Zutaten.
 
-inspiriert durch eine Netflix-Kochshow.
+inspiriert durch eine kalifornische Kochshow.
 
 ---
 *Vorspeisen*
 
-Angegrillte Brokkolisprossen mit Pfirsich Habanero Salsa, Aprikosenschalotten und Queso Fresco. Etwas Öl und Grasstaub.
+Angegrillte Brokkolisprossen mit Pfirsich Habanero Salsa, Aprikosenschalotten und Queso Fresco. Etwas Öl und Blütenstaub.
 
 Feigen mit Gorgonzola an Balsamicobutter
 Radieschen, Dill, Melone
 
 Avocado Gurkensalat an Lemonhaze mit Sea-Flavored Clean Pasta
 
-Beyond-Meat roher Tartar mit in tphcöl pochiertem Eigelb
+Beyond-Meat roher Tartar mit in Krautöl pochiertem Eigelb
 Cracker mit Mehlwürmern und Grashüpfern
 
 Sojachorizo in infusioniertem Blätterteig mit Honig-Sriracha garniert mit in Bourbon eingelegten Kirschen, Pistazienkruste. Dazu Feldsalat mit etwas Essig und Blumenblüten
@@ -34,13 +34,13 @@ Gegrillte Zwiebeln zu einer Kokosnussinfusuinspolenta mit angegrilltem Swiss Cha
 ---
 *Desert*
 
-Zitrone, Rosemarin und Cannabis-Honig auf Pekanüssen
+Zitrone, Rosemarin und magischer Honig auf Pekanüssen
 
-In Mescal marinierte gegrillte Mango mit Kondensmilch mit CBD auf THC-Vanillekekstortenboden mit Sahne und Pistazien
+In Mescal marinierte gegrillte Mango mit gestreckter Kondensmilch auf gebuttertem Vanillekekstortenboden mit Sahne und Pistazien
 
 Mangogelee auf Beeren auf Spekulatiuscrumble mit Kokosnussschlagsahne und Lemonhaze.
 
-Blätterteigsamoroso mit in CBD Honig geschlagenem Ziegenkäse und Haselnuss Gremolata mit viel Sauce aus Feigenkonfitüre und Nelken-Hazegastrique
+Blätterteigsamoroso mit in magischem Honig geschlagenem Ziegenkäse und Haselnuss Gremolata mit viel Sauce aus Feigenkonfitüre und Nelken-Hazegastrique.
 
 Waffeln aus kandierten Süßkartoffeln mit geräuchertem Ahornsirup, Walnüssen und Kürbisblüten
 
@@ -52,7 +52,7 @@ Stängel & Blätter hacken, Knospen grinden.
 Material in einem Bratschlauch 30-40 Minuten decarboxylieren.
 Abkühlen lassen.
 
-Auf kleiner Temperatur in einem Topf 250g gesalzene Butter (wegen des höheren Schmelzpunktes) mit dem Gras langsam aufkochen, bis sich kleinste Bläschen bilden, dabei 300ml Wasser portionsweise hinzugeben, um das Material zu bedecken, es soll ja nichts verbrennen.
+Auf kleiner Temperatur in einem Topf 250g gesalzene Butter (wegen des höheren Schmelzpunktes) mit den Zutaten langsam aufkochen, bis sich kleinste Bläschen bilden, dabei 300ml Wasser portionsweise hinzugeben, um das Material zu bedecken, es soll ja nichts verbrennen.
 
 Das ganze so lange köcheln, wie es geht (5-10h und mehr).
 Dabei pro Stunde etwa 50-100ml Wasser hinzugeben, das immer genügend Flüssigkeit vorhanden ist.
@@ -61,8 +61,8 @@ Durch ein feines Tuch in eine Schüssel abseien, einglasen und in den Kühlschra
 
 ```python
 def cook(
-	g: int = 5,  # how much weed will be added to the butter (in grams)
-	potential = 19,  # how 'strong' is the breed (percentage share of THC)
+	g: int = 5,  # how much we add to the butter (in grams)
+	potential = 19,  # how 'strong' is the breed (percentage share of Ingredients)
 	butter = 250  # default weight of one package of butter in g
 ):
 	"""
@@ -70,13 +70,13 @@ def cook(
 	So calculate carefully how much your dish should be cooked with.
 
 	For the defaults the result is 3.8 mg per gram butter.
-	A full tablespoon already has 14grams (~= 50mgTHC!)
+	A full tablespoon already has ~14grams (~= 50mg potent substance!)
 
 	THAT IS A LOT and usally enough for 3-5 people. Be careful.
 	Less is more ;-)
 	"""
-	total_thc_mg = (g * 1000) * (potential/100)
-	a_gram_butter_has_mg = total_thc_mg / butter 
+	total_mg = (g * 1000) * (potential/100)
+	a_gram_butter_has_mg = total_mg / butter 
 	# This is the dose in mg per gram butter.
 	return a_gram_butter_has_mg
 
