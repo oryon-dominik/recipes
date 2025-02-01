@@ -1,6 +1,6 @@
 Menu: Kochen mit magischen Zutaten.
 
-inspiriert durch eine kalifornische Kochshow.
+> inspiriert durch eine - in der öffentlichen Kritik weitgehend unpopuläre - kalifornische Kochshow eines größeren Streaminganbieters
 
 ---
 *Vorspeisen*
@@ -19,7 +19,7 @@ Sojachorizo in infusioniertem Blätterteig mit Honig-Sriracha garniert mit in Bo
 
 Gegrilltes Coque Madame mit Tomatenchutney, Bechamel, Wachtelei und Schnittlauch
 
-Cannabisblätter eingearbeitet in Chilaquiles mit Knoblauchcreme, Olivenöl und grüner Salsa
+Pflanzenblätter eingearbeitet in Chilaquiles mit Knoblauchcreme, Olivenöl und grüner Salsa
 
 Fünf Käse Blumenkohl Maccaroni mit Apfelgarnitur
 
@@ -62,19 +62,20 @@ Durch ein feines Tuch in eine Schüssel abseien, einglasen und in den Kühlschra
 ```python
 def cook(
 	g: int = 5,  # how much we add to the butter (in grams)
-	potential = 19,  # how 'strong' is the breed (percentage share of Ingredients)
-	butter = 250  # default weight of one package of butter in g
+	potential: int = 20,  # how 'strong' is the breed (percentage share of Ingredients)
+	butter: int = 250,  # default weight of one package of butter in g
 ):
 	"""
 	For an average to advanced experience take 10-30 mg per portion.
 	So calculate carefully how much your dish should be cooked with.
 
-	For the defaults the result is 3.8 mg per gram butter.
+	For the defaults the result is 4 mg per gram butter.
 	A full tablespoon already has ~14grams (~= 50mg potent substance!)
 
 	THAT IS A LOT and usally enough for 3-5 people. Be careful.
 	Less is more ;-)
 	"""
+        # Processing steps usually involve decarboxylation, which reduces potential by around 10%.
 	total_mg = (g * 1000) * (potential/100)
 	a_gram_butter_has_mg = total_mg / butter 
 	# This is the dose in mg per gram butter.
