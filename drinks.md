@@ -30,7 +30,7 @@ Should I give them names?
 Of course I like 'em all on the rocks..
 
 **Mezcal Lime Margarita**
-- Mezcal (San Cosme), a lil' bit of Agave syrup, fresh lime juice
+- Mezcal (San Cosme), a lil' bit of agave syrup, fresh lime juice
 
 **BanaBo**
 - Bourbon with banana juice.
