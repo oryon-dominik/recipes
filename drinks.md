@@ -17,6 +17,7 @@ Hulapai from Hawaii I liked most
 - Ginseng
 - Green-matcha
 - Assam Bari
+- Brauner koreanischer Reistee (Hyeonmi Cha)
 
 ## beer
 Usally IPA is prefered Brewdogs Punk is great. But: no more beer, I'm afraid.
