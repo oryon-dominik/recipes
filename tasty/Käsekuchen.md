@@ -1,7 +1,7 @@
 
 #receipe #rezept #kochen #cooking #backen #kuchen #käsekuchen
 
-Von Isabellas Großmutter. Etwas modifizert von meiner Manm.
+Von Isabellas Großmutter. Etwas modifizert von meiner Mama.
 
 ## Mürbeteig
 200g Mehl (Vertiefung)
