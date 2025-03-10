@@ -11,13 +11,13 @@ Nach einem Rezept von J.O. gefunden auf dem Blog [Malteskitchen](https://www.mal
 - 1 Vanilleschote
 
 ### Brownies
-230 g Butter
-250 g dunkle Schokolade, 70% Kakao
-230 g Zucker
-150 g Mehl
-4 Eier
-2 EL Himbeerkonfitüre
-75 g frische Himbeeren
+- 230 g Butter
+- 250 g dunkle Schokolade, 70% Kakao
+- 230 g Zucker
+- 150 g Mehl
+- 4 Eier
+- 2 EL Himbeerkonfitüre
+- 75 g frische Himbeeren
 
 ### Zubereitung
  
