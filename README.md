@@ -22,3 +22,6 @@ TODO: add recipes for:
 - (Bella) Himbeer Schoko Traum
 - (Bella) Käseplätzchen (+ Variante mit Sativa)
 - Blätterteigschnecken mit Varianten
+
+
+TODO: iontegrate readables, like: https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete
