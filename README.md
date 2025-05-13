@@ -1,6 +1,3 @@
 # recipes
 
-## Welcome to oryon's digital kitchen 👩‍🍳👨‍🍳  
-
-Lieblingsrezepte – handverlesen.  
-Fork it!  
+Welcome to oryon's digital kitchen 👩‍🍳👨‍🍳  - Lieblingsrezepte, handverlesen.  
