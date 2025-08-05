@@ -3,97 +3,98 @@
 #receipe #rezept #kochen #cooking #fonds
 
 
+_Merci [Fallow](https://www.youtube.com/@FallowLondon)_
+
 Saucengrundlagen (Fonds)
 Prinzip: Fonds sollen klar sein, werden als Grundlagen manigfalitg in der Küche eingesetzt.
 
+Am besten zum Schluß in große Eiswürfelformen gießen, damit man immer genug zur Hand hat.
 
 ## Klarer Hühnerfond - white chicken stock - Bouillon
 
 Hühnerfüße und andere Teile einmal blanchieren , um das Blut zu entfernen, und die Brühe klarer zu ziehen.
 
 Dann
-Möhren
-Zwiebeln
-Sellerie 
-Fenchel 
-Rosmarin
-Thymian 
-
-Schwarze Pfefferkörner 
+- Möhren
+- Zwiebeln
+- Sellerie 
+- Fenchel
+- Rosmarin
+- Thymian
+- Schwarze Pfefferkörner
 
 Ohne vorher zu karamelisieren aufkochen
 
-90 Minuten - 2h
-Und dann langsam Schaum und Öl abziehen 
-
-Kann später ins Tiefkühlfach.
+90 Minuten - 2h ziehen lassen.
+Und dann langsam Schaum und Öl von der oberen Außenkante abziehen.
 
 ---
 
-zB für Hähnchenbrust..oder ganzes Hähnchen, das wird darin gekocht und uberträufelt 35-45 Minuten..
+Hähnchenbrust..oder ganzes Hähnchen, das wird im Fond gekocht und für 35-45 Minuten überträufelt.
+Dann wird der Fond reduziert... wenig Sahne hinzu, so dasss es noch blass bleibt.. weiter reduzieren.
+Zitronensaft, ganz wenig Dijonsenf und Petersilie.
 
-Dann Fond reduziert... wenig Sahne, so dasss es noch blass bleibt.. reduzieren. Zitronensaft, ganz wenig Dijonsenf und Dann Petersilie.
-
-Daneben Morcheln in Butter anbraten, bissl Butter. Am Ende mit einem Schöpflöffel des Fonds glasiert.
+Daneben Morcheln in bisserl Butter anbraten. Am Ende mit einem Schöpflöffel des Fonds glasieren.
 
 
-## Brown/golden chicken stock
+## Dunkler Hühnerfond - brown/golden chicken stock
 
-Möhren
-Lauch
-Petersilie
-Hühnerknochen, Reste, geröstet oder gegrillt
+- Möhren
+- Lauch
+- Petersilie
+- Hühnerknochen, Reste, geröstet oder gegrillt
 
-Schaum abziehen (contains of Fat, Grease,..)
-Dann 2-3h köcheln
-Ganze Petersilie zu
+Schaum abziehen (Fett, Schmiere..)
+Dann 2-3h köcheln.
+Ganze Petersilie zu.
 
 ---
 
 Etwas Sahne, etwas Butter einrühren.
-Taragon gehackt.
+Estragon gehackt.
 
 
 ## Fischfond
 
 Weiße Fischknochen, (aber keine vom Lachs, zu wenig Aroma), Augen, Köpfe..
 
-Fenchel
-Lauch
-Pilze
-Möhren
-Weniger Zwiebeln
-Pfefferkörne
-Koriandersamen
+- Fenchel
+- Lauch
+- Pilze
+- Möhren
+- Weniger Zwiebeln
+- Pfefferkörner
+- Koriandersamen
 
-Auch das den Schaum abschöpfen 
-Hier wird aber nur 45 Minuten insgesamt gekocht.
+Auch hier den Schaum abschöpfen.
+Hier wird nur 45 Minuten insgesamt gekocht.
 
-Dill Petersilie
+Dill, Petersilie
 Halbe Stunde..
 
 ---
 
-Fonds reduzieren, in Wein/Essig-reduktion,
-Kalte Butter, Schuss Sahne, Zitronensaft (Säure), Saft aus überkochten Schalotten ziehen. Dill zum Finish. Dulce.
+Fonds reduzieren, in Wein/Essig-Reduktion,
+Kalte Butter, Schuss Sahne, Zitronensaft (Säure), Saft aus überkochten Schalotten ziehen. Dill zum Finish. Süße.
 
 Dazu gegrillter Fisch
 
 
 ## Meeresfrüchte Fond
+
 Spanische Variante
 
 Hummerreste, Krabbenkkochen, Garnelenköpfe..
 Anrösten.
 
-Sellerie
-Lauch
-Zwiebeln
-Möhren
-Pilze
-Weißwein
-Knoblauch
-Eine Dose gehackte Tomaten
+- Sellerie
+- Lauch
+- Zwiebeln
+- Möhren
+- Pilze
+- Weißwein
+- Knoblauch
+- Eine Dose gehackte Tomaten
 
 90-120 Minuten kochen.
 
@@ -104,29 +105,30 @@ Reis, Zwiebeln,.. von außen langsam die Brühe zugeben, 45 Minuten Kruste bilde
 
 ## Rinderfonds
 
-Ochsenknochen -geröstete (180°),  Ochsenschwanz für Collagene, anschwitzen,
+Ochsenknochen, geröstete (180°),  Ochsenschwanz für Collagene, anschwitzen.
 
 Sternanis bringt "natural meetiness heraus".
 
-Zwiebeln anschwitzen und damit die wieder die Aromen aus der Pfanne lösen, Lauch, Pilze , Möhren..
+Zwiebeln anschwitzen und damit die wieder die Aromen aus der Pfanne lösen..
 
 Rotwein, Port, vielleicht Brandy für die Süße
-Und dann Gemüse..
+Und dann Gemüse.. Lauch, Pilze , Möhren..
 
-Pfefferkörner, 
-Thymian 
-Rosmarin 
-Knoblauch
+- Pfefferkörner
+- Thymian
+- Rosmarin
+- Knoblauch
 
-3-4h Kochen, nach ca. 2 den Schaum abziehen..
+3-4h Kochen, nach ca. 2h den Schaum abziehen..
 
 ---
+
 Reduzieren, in Eiswürfelformen.. verpacken
 
 In Olivenöl + Butter jede Menge Zwiebeln karamelisieren und am Ende mit Fonds löschen.
 Dann Butter reinziehen, und Spritzer Sherryessig.
 
-Dazu Geröstete Crostini-brote mit geriebenem Käse - Grier & Compte
+Dazu Geröstete Crostini-Brote mit geriebenem Käse - Grier & Compte
 
 Fleisch mit Grier in Backformen und der Sauce unter Grill überbacken.
 
@@ -135,27 +137,26 @@ Fleisch mit Grier in Backformen und der Sauce unter Grill überbacken.
 
 Zwiebeln anbraten 
 Lauch.. immer alles kurz durchschwitzen.
-Kurz bevor oder gerade wenn wenig Farbe kommt, die nächste Zutat dazu..
-Möhren.
-Fenchel 
-Pilze.
-
-Koriandersamen.
-Pfefferkörner.
+Kurz bevor oder gerade wenn wenig Farbe kommt, die nächste Zutat dazu.
+- Möhren
+- Fenchel
+- Pilze
+- Koriandersamen
+- Pfefferkörner
 
 Mit Wasser auffüllen
 
-35 Minutes.
+35 Minuten.
 
-Etwas Rosmarin rein, abziehen. Nochmal 25 Minuten.
+Etwas Rosmarin rein, Schaum abziehen. Nochmal 25 Minuten.
 Als letztes noch Petersilie.
 
 ---
 
-Sieben, auf Hälfte reduzieren 30-60 Minuten.
+Sieben, auf Hälfte reduzieren in 30-60 Minuten.
 Salzen, schönes Olivenöl.
-Etwas SherrEssig.
-Zum Schluss etwas Zitronensaft.
+Etwas Sherry-Essig.
+Zum Schluss Spritzer Zitronensaft.
 
 Wir haben eine Veginage.
 
