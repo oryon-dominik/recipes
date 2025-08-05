@@ -1,6 +1,7 @@
 
 #receipe #rezept #kochen #cooking #pilze #champignon #pasta #nudeln #sauce
 
+
 Knoblauch hacken, anschwitzen, Semmebrösel darin bräunen und gehackte Kräuter dazugeben (Thymian, Petersilie, was du magst ..). In einer Schüssel beiseitestellen.
 
 Knoblauchscheiben mit den geschnittenen Pilzen in Butter oder Öl und Kräutern etwa zehn Minuten anbraten, bis das Wasser verdampt ist und die Pilze ordentlich Farbe nehmen.
