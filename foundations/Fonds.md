@@ -161,4 +161,4 @@ Zum Schluss Spritzer Zitronensaft.
 Wir haben eine Veginage.
 
 Über gelöste Artischocken gießen.
-Darin kochen. Dann Abgießen. Artischocken glänzendit einem neuen Schuss von dem Fond anbraten. Mit Rucola vermengen.
+Darin kochen. Dann Abgießen. Artischocken glänzend mit einem neuen Schuss von dem Fond anbraten. Mit Rucola vermengen.
