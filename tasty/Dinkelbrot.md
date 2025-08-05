@@ -1,9 +1,10 @@
 Rezept: Dinkelbrot
-Pfund Dinkelmehl
-Würfel Hefe in halbem Liter lauwarmem Wasser
-150g Körnerquatsch
-2TL Salz
-2EL Obstessig (Apfel? Balsamico?)
+
+- Pfund Dinkelmehl
+- Würfel Hefe in halbem Liter lauwarmem Wasser
+- 150g Körnerquatsch
+- 2TL Salz
+- 2EL Obstessig (Apfel? Balsamico?)
 
 Mengen
 

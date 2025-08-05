@@ -1,6 +1,6 @@
 Rezept: Blutwurst Ameuse Geule
 
-Haferflocken mit sehr wenig Wasser ein paar Minuten einweichen, dann in Butter anbraten und mit zwei Löffeln Ahornsirup und ordentlich fein gestampften Rosmarin-Salz-Knäckebrot-Splittern vermengen. Salzen.
+Haferflocken mit sehr wenig Wasser ein paar Minuten einweichen, dann in Butter anbraten und mit zwei Löffeln Ahornsirup und ordentlich fein gestampften Rosmarin-Salz-Knäckebrot-Splittern vermengen. Salzen.  
 Mit in ganz feine Streifen geschnittenen Salatblättern zu einem löffelgroßen Bettchen formen.
 
 Auf den Löffeln drapieren.
