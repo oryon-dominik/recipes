@@ -27,6 +27,8 @@ Brewdogs Punk is great.
 In Dublin, Ireland on a hike on the mountains in a pub I had a Féile Pale Ale. Wow, best I ever had - maybe after the hike. 
 But: no more beer, I'm afraid.
 
+oh and a beer with a 100ml infusion of club-mate is a special nice mix-flavor
+
 ## wine
 White, with spritzers.
 
