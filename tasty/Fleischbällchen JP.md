@@ -1,5 +1,5 @@
 
-#receipe #rezept #kochen #cooking
+#receipe #rezept #kochen #cooking #fleischbällchen #pasta #fleisch #italienisch
 
 Weißbrot, getrocknete Tomaten und jede Menge frische Petersilie mixern.
 Hackfleisch + scharfes ungeräuchertes Würstchen; gehackter Knoblauch. Angeschwitzte Zwiebeln.
@@ -8,7 +8,7 @@ Ein ganzes Ei.
 Salz & Pfeffer,
 Etwas Buttermilch
 
-Mit einem Eis Löffel Bällchen formen.
+Mit einem Eislöffel Bällchen formen.
 Im Kühlschrank etwas abkühlen lassen, dann lassen sie sich leichter verarbeiten.
 
 In eine Tomatensoße:
@@ -19,7 +19,7 @@ In heißem (175°) Öl braun braten, von allen Seiten - mit Zange wenden.
 
 Dann für ~ 40 Minuten in den Top (Kerntemperatur mind. 65°)
 
-Fertige Spaghetti kurz in einer Pfanne mit etwas Butter, Parmesan, Salz, Pfeffer und ein, zwei (großen) Löffeln der Sauce schwenken. Frischer Basilikum hinzu.
+Fertige Spaghetti kurz in einer Pfanne mit etwas Butter, Parmesan, Salz, Pfeffer und ein, zwei (großen) Löffeln der Sauce schwenken. Frisches Basilikum hinzu.
 
 Mit den Bällchen anrichten.
 Parmesan.

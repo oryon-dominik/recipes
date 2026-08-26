@@ -14,9 +14,9 @@ Mit Mixstab pürieren.
 
 Kalte Butter.
 Ganzer Becher Sahne.
-Halber-ganzer Becher Créme Fraiche.
+Halber-ganzer Becher Crème fraîche.
 Reichlich frischer Muskat.
 
 Abschmecken.
 
-Voilá
+Voilà

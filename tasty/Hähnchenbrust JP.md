@@ -7,15 +7,16 @@ Zur Seite stellen.
 
 Im Sud getrocknete Tomaten (fein geschnitten) in gut Butter anschwitzen.
 Dazu Knoblauch, mit Tomatenmark. Anrösten.
-Zehn Basilikumblätter.
-Hände voll Spinat.
-Geriebene Zitronenschale 
-Halber Becher Sahne
-Parmesan
-Etwas Dijon-Senf.
-Chiliflocken.
-Oregano.
-Pfeffer.
+
+- Zehn Basilikumblätter
+- Hände voll Spinat
+- Geriebene Zitronenschale
+- Halber Becher Sahne
+- Parmesan
+- Etwas Dijon-Senf
+- Chiliflocken
+- Oregano
+- Pfeffer
 
 Köcheln.
 Butter rein ;-D

@@ -22,7 +22,7 @@ Hulapai from Hawaii I liked most
 - Brauner koreanischer Reistee (Hyeonmi Cha)
 
 ## beer
-Usally IPA is prefered.
+Usually IPA is preferred.
 Brewdogs Punk is great.
 In Dublin, Ireland on a hike on the mountains in a pub I had a Féile Pale Ale. Wow, best I ever had - maybe after the hike. 
 But: no more beer, I'm afraid.

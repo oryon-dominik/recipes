@@ -20,7 +20,7 @@
 
 - Olivenöl
 - Aceto Balsamico
-- ein Schuß Apfelbalsamico
+- ein Schuss Apfelbalsamico
 
 - Meersalz
 - frischer Schwarzer Pfeffer
@@ -30,23 +30,23 @@
 
 - Suppengrün würfeln, Knoblauch zerdrücken und feinhacken.
 - Beides in Olivenöl und wenig Tomatenmark anschwitzen.
-- Mit dem Schuß Apfel Balsamico löschen. Tomaten hinzufügen (gewürfelte, passierte).
+- Mit dem Schuss Apfelbalsamico löschen. Tomaten hinzufügen (gewürfelte, passierte).
 
 - Währenddessen die in feine Würfel geschnittenen Zwiebeln in einer Pfanne braten, bis sie ordentlich Farbe haben.
 - Mit einem Bund Basilikum (in Stücke gezupft) in den Topf geben.
 
 - Das Hackfleisch portionsweise scharf krümelig anbraten, mit Tomatenmark löschen und jeweils hinzufügen.
 
-- Übriges tomatemamrk unterrühren, Chili Schoten oder Bih Jolokia (gehackt oder als Pulver) hinterher.
+- Übriges Tomatenmark unterrühren, Chili Schoten oder Bih Jolokia (gehackt oder als Pulver) hinterher.
 - Mit Meersalz, frisch gemahlenem schwarzem Pfeffer, einer Prise Curry und gutem Aceto Balsamico abschmecken.
 
 - Mindestens zwei Stunden unter geringer Hitzezufuhr köcheln lassen, regelmäßig umrühren.
 
 - Spaghetti al dente kochen (Wasser aufkochen, salzen, Nudeln rein, Hitze ausstellen, 12.5-14 Minuten). Je nach Gusto zum feinen Abschluss in einem kleinen Stück zerlassener Kräuterbutter schwenken (das lasse ich meistens weg).
 
-- Die ganzen Tomaten grob gewürfelt und das zweite Bund Basilikum fein gehackt zur Bolgnese geben. Eine kleine Hand voll Parmesan dazu.
+- Die ganzen Tomaten grob gewürfelt und das zweite Bund Basilikum fein gehackt zur Bolognese geben. Eine kleine Hand voll Parmesan dazu.
 - Unterheben. Anrichten.
 - Mit Parmesan und grobem Pfeffer bestreuen.
 - Mit Basilikum Blättern garnieren.
 
-Voilá
+Voilà

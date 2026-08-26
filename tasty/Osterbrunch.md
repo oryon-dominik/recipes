@@ -5,7 +5,7 @@ Der klassische Brunch. Traditionell an Ostern.
 - Bemalte Eier (obviously).
 - Stuten, Mürbchen mit Rosinen, Körnerbrötchen, Sandkuchen.
 - Schinken & Wurst Platte
-	- Seranoschinken,
+	- Serranoschinken,
 	- Fleischwurst,
 	- grobe Leberwurst,
 	- frisches Mett,
@@ -13,7 +13,7 @@ Der klassische Brunch. Traditionell an Ostern.
 - Fischplatte
 	- Stremellachs,
 	- Räucherlachs,
-	- Markele,
+	- Makrele,
 	- Forelle,
 	- Frische Nordseekrabben.
 - Käseplatte

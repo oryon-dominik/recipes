@@ -27,7 +27,7 @@ Marzipanfüllung
 - 20ml Zitronensaft
 - 10ml Kirschwasser
 - 30g Butter
-- 4 EL Erdbeersauce (s.o)
+- 4 EL Erdbeersauce (s. o.)
 - 4 TL Eierlikör
 - 4 Kugeln Vanilleeis
 - Schlagsahne zum Garnieren
@@ -42,15 +42,15 @@ Vanilleeis
 - 1 Prise Salz
 
 ### Palatschinken
-Mehl in eine Schüssel sieben. Milch, Sahne, Eieer, Salz, Zucker und Öl hinzu. Zu einem glatten, dünnen Teig rühren.
-Etwa eine Stunde ruhen lassen, nochmals durchrühren und in einer Pfanne (15cm) ca 20 möglichst dünne Palatschinken backen.
+Mehl in eine Schüssel sieben. Milch, Sahne, Eier, Salz, Zucker und Öl hinzu. Zu einem glatten, dünnen Teig rühren.
+Etwa eine Stunde ruhen lassen, nochmals durchrühren und in einer Pfanne (15cm) ca. 20 möglichst dünne Palatschinken backen.
 
 ### Erdbeersauce
 Erdbeeren pürieren und durch ein Sieb streichen.
-Zucker und Wasser zum Kochen bringen. Die in Streifen geschnittene Orange dazugeben, etwa 3 Minuten einkochen und den Rum zusetzen. Die erkaltete Mischung mit dem Erdpeerpüree verrühren.
+Zucker und Wasser zum Kochen bringen. Die in Streifen geschnittene Orange dazugeben, etwa 3 Minuten einkochen und den Rum zusetzen. Die erkaltete Mischung mit dem Erdbeerpüree verrühren.
 
 ### Marzipanfüllung
-Die Marzipanrohmaße mit Zuckersirup, Zitronensaft und Kirschwasser schaumig rühren. Die Palatschinken damit füllen, aufrollen und in einer Pfanne oder auf ein Backblech legen. Mit Butter bestreichen und 5 Minuten bei 200° überbacken. auf Teller legen, mit Erdbeersauce und Eierlikör übergießen, mit Vanilleeis, Minze und Schlagsahne servieren.
+Die Marzipanrohmasse mit Zuckersirup, Zitronensaft und Kirschwasser schaumig rühren. Die Palatschinken damit füllen, aufrollen und in einer Pfanne oder auf ein Backblech legen. Mit Butter bestreichen und 5 Minuten bei 200° überbacken. Auf Teller legen, mit Erdbeersauce und Eierlikör übergießen, mit Vanilleeis, Minze und Schlagsahne servieren.
 
 ### Vanilleeis
 Milch und Sahne mit aufgeschnittener Vanilleschote aufkochen. Die Schote auskratzen. 

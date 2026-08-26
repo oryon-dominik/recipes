@@ -3,7 +3,7 @@ eines meiner Lieblingsrezepte in gleich mehreren Varianten
 
 ---
 
-## Tonno Spinacci
+## Tonno Spinaci
 
 to be written (mache ich doch so oft..)
 
@@ -25,7 +25,7 @@ to be written (mache ich doch so oft..)
 - Knoblauch
 - Zwiebeln
 
-Tonno Teig machen (Schmand + Tono + Petersilie + Sardinen verkneten)
+Tonno Teig machen (Schmand + Tonno + Petersilie + Sardinen verkneten)
 
 Gemüse anbraten
 
@@ -36,9 +36,11 @@ Gemüse anbraten
 - gehackte Zwiebeln in der Pfanne in Butter bräunen
 - wenn sie duften eine rote Zwiebel und zwei gehackte Knoblauchzehen hinzufügen
 - zwei gehackte grüne Peperoni zu geben
-- Währenddessen drei Dosen Thunfisch mit 1 kleinem Stück Butter, Olivenöl, 1 Schuß Sahne, Salz & Pfeffer viel Petersilie & einer handvoll gebriebenem Gouda vermengen
+- Währenddessen drei Dosen Thunfisch mit 1 kleinem Stück Butter, Olivenöl, 1 Schuss Sahne, Salz & Pfeffer viel Petersilie & einer handvoll geriebenem Gouda vermengen
 - Die Zwiebel mit etwas Sherry ablöschen
 - Thunfisch in die Pfanne geben, Milch hinzugeben, Spinat und weitere Hände Gouda nach Bedarf
-- Das Ganze so zum Kochen bringen, mit Sahne abschmecken, zu der Spaghetti al dente geben & mit Parmsesan und frischem Pfeffer anrichten
+- Das Ganze so zum Kochen bringen, mit Sahne abschmecken, zu der Spaghetti al dente geben & mit Parmesan und frischem Pfeffer anrichten
 
 Buon Appetito!
+
+#receipe #rezept #kochen #cooking #thunfisch #pasta #spaghetti #italienisch

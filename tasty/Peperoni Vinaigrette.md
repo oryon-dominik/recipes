@@ -1,10 +1,12 @@
 Rezept: Peperoni Vinaigrette
 
-Möhre, Sellerie, Peperoni blanchiert
-Frische Peperoni dazu
+- Möhre, Sellerie, Peperoni blanchiert
+- Frische Peperoni dazu
 
 Gewürzt mit
-Kerbel, Koriander, Petersilie
+- Kerbel
+- Koriander
+- Petersilie
 
 Salz, Pfeffer, Öl
 

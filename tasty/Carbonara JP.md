@@ -1,5 +1,5 @@
 
-#receipe #rezept #kochen #cooking
+#receipe #rezept #kochen #cooking #pasta #spaghetti #speck #italienisch
 
 - Frischen Speck am Stück würfeln.
 - Langsam rotbraun im eigenen Saft ohne Fett golden braten. Den Saft abgießen.
@@ -8,8 +8,8 @@
 
 - Viel Parmesan fein reiben.
 
-- Fünf Eier Gelb von einem Teller trennen.
-- Mit Dem Parmesan, dem Pfeffer (etwas Mehl?) verrühren. Auch mit Eiweiß ergänzen, für die Konsistenz.
+- Fünf Eigelb von einem Teller trennen.
+- Mit dem Parmesan, dem Pfeffer (etwas Mehl?) verrühren. Auch mit Eiweiß ergänzen, für die Konsistenz.
 - Etwas steif schlagen.
 
 - Dabei Nudeln kochen. Etwa zwei oder drei Tassen des Nudelwassers zu der Eimischung rühren.

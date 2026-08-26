@@ -6,13 +6,13 @@
 _Merci [Fallow](https://www.youtube.com/@FallowLondon)_
 
 Saucengrundlagen (Fonds)
-Prinzip: Fonds sollen klar sein, werden als Grundlagen manigfalitg in der Küche eingesetzt.
+Prinzip: Fonds sollen klar sein, werden als Grundlagen mannigfaltig in der Küche eingesetzt.
 
-Am besten zum Schluß in große Eiswürfelformen gießen, damit man immer genug zur Hand hat.
+Am besten zum Schluss in große Eiswürfelformen gießen, damit man immer genug zur Hand hat.
 
 ## Klarer Hühnerfond - white chicken stock - Bouillon
 
-Hühnerfüße und andere Teile einmal blanchieren , um das Blut zu entfernen, und die Brühe klarer zu ziehen.
+Hühnerfüße und andere Teile einmal blanchieren, um das Blut zu entfernen, und die Brühe klarer zu ziehen.
 
 Dann
 - Möhren
@@ -23,7 +23,7 @@ Dann
 - Thymian
 - Schwarze Pfefferkörner
 
-Ohne vorher zu karamelisieren aufkochen
+Ohne vorher zu karamellisieren aufkochen
 
 90 Minuten - 2h ziehen lassen.
 Und dann langsam Schaum und Öl von der oberen Außenkante abziehen.
@@ -31,7 +31,7 @@ Und dann langsam Schaum und Öl von der oberen Außenkante abziehen.
 ---
 
 Hähnchenbrust..oder ganzes Hähnchen, das wird im Fond gekocht und für 35-45 Minuten überträufelt.
-Dann wird der Fond reduziert... wenig Sahne hinzu, so dasss es noch blass bleibt.. weiter reduzieren.
+Dann wird der Fond reduziert... wenig Sahne hinzu, so dass es noch blass bleibt.. weiter reduzieren.
 Zitronensaft, ganz wenig Dijonsenf und Petersilie.
 
 Daneben Morcheln in bisserl Butter anbraten. Am Ende mit einem Schöpflöffel des Fonds glasieren.
@@ -84,7 +84,7 @@ Dazu gegrillter Fisch
 
 Spanische Variante
 
-Hummerreste, Krabbenkkochen, Garnelenköpfe..
+Hummerreste, Krabbenknochen, Garnelenköpfe..
 Anrösten.
 
 - Sellerie
@@ -125,7 +125,7 @@ Und dann Gemüse.. Lauch, Pilze , Möhren..
 
 Reduzieren, in Eiswürfelformen.. verpacken
 
-In Olivenöl + Butter jede Menge Zwiebeln karamelisieren und am Ende mit Fonds löschen.
+In Olivenöl + Butter jede Menge Zwiebeln karamellisieren und am Ende mit Fonds löschen.
 Dann Butter reinziehen, und Spritzer Sherryessig.
 
 Dazu Geröstete Crostini-Brote mit geriebenem Käse - Grier & Compte

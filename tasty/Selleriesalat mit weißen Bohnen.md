@@ -1,6 +1,6 @@
 Rezept: Selleriesalat mit weißen Bohnen
 
-Zerdrückte Knoblauchzehe salzen & mit Olivenöl bedecken. Maße stampfen & rühren.
+Zerdrückte Knoblauchzehe salzen & mit Olivenöl bedecken. Masse stampfen & rühren.
 1 großen Sellerie erbsengroß würfeln.
 Das gesalzene Knoblauch-Öl nehmen und 3-4EL unter den Sellerie mischen.
 ~ eine Viertelstunde bei 180° Umluft im vorgeheizten Ofen garen.
@@ -14,7 +14,7 @@ Für das Dressing: (ohne Tahin?)
 Orangensaft einer halben Orange 
 Eine Kappe Zitronensaft
 2 EL Honig
-2 EL Etwas Wasser
+2 EL Wasser
 Salz, Pfeffer 
 
 Mit Sesam, Sellerie, Grünzeug und Bohnen verrühren und alles gründlich untermischen.

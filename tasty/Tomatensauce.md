@@ -19,4 +19,4 @@ Mit 1-2 handbreit Milch löschen.
 2 Dosen Tomaten einwalgen.
 
 Einkochen bis alle zu hungrig sind.
-Zu Nudeln z.B servieren.
+Zu Nudeln z. B. servieren.

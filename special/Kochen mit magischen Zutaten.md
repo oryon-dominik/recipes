@@ -17,7 +17,7 @@ Cracker mit Mehlwürmern und Grashüpfern
 
 Sojachorizo in infusioniertem Blätterteig mit Honig-Sriracha garniert mit in Bourbon eingelegten Kirschen, Pistazienkruste. Dazu Feldsalat mit etwas Essig und Blumenblüten
 
-Gegrilltes Coque Madame mit Tomatenchutney, Bechamel, Wachtelei und Schnittlauch
+Gegrilltes Croque Madame mit Tomatenchutney, Bechamel, Wachtelei und Schnittlauch
 
 Pflanzenblätter eingearbeitet in Chilaquiles mit Knoblauchcreme, Olivenöl und grüner Salsa
 
@@ -29,14 +29,14 @@ Fünf Käse Blumenkohl Maccaroni mit Apfelgarnitur
 Gegrillter Pakchoi + Mangold mit Chili Salat, dazu
  in Bananenblätter gewickelter WildLachs der mit weißer Limettencurrybutter bestrichen wurde
 
-Gegrillte Zwiebeln zu einer Kokosnussinfusuinspolenta mit angegrilltem Swiss Chard
+Gegrillte Zwiebeln zu einer Kokosnussinfusionspolenta mit angegrilltem Swiss Chard
 
 ---
-*Desert*
+*Dessert*
 
-Zitrone, Rosemarin und magischer Honig auf Pekanüssen
+Zitrone, Rosmarin und magischer Honig auf Pekanüssen
 
-In Mescal marinierte gegrillte Mango mit gestreckter Kondensmilch auf gebuttertem Vanillekekstortenboden mit Sahne und Pistazien
+In Mezcal marinierte gegrillte Mango mit gestreckter Kondensmilch auf gebuttertem Vanillekekstortenboden mit Sahne und Pistazien
 
 Mangogelee auf Beeren auf Spekulatiuscrumble mit Kokosnussschlagsahne und Lemonhaze.
 
@@ -57,7 +57,7 @@ Auf kleiner Temperatur in einem Topf 250g gesalzene Butter (wegen des höheren S
 Das ganze so lange köcheln, wie es geht (5-10h und mehr).
 Dabei pro Stunde etwa 50-100ml Wasser hinzugeben, das immer genügend Flüssigkeit vorhanden ist.
 
-Durch ein feines Tuch in eine Schüssel abseien, einglasen und in den Kühlschrank stellen.
+Durch ein feines Tuch in eine Schüssel abseihen, einglasen und in den Kühlschrank stellen.
 
 ```python
 def cook(
@@ -72,7 +72,7 @@ def cook(
 	For the defaults the result is 4 mg per gram butter.
 	A full tablespoon already has ~14grams (~= 50mg potent substance!)
 
-	THAT IS A LOT and usally enough for 3-5 people. Be careful.
+	THAT IS A LOT and usually enough for 3-5 people. Be careful.
 	Less is more ;-)
 	"""
         # Processing steps usually involve decarboxylation, which reduces potential by around 10%.
@@ -82,3 +82,5 @@ def cook(
 	return a_gram_butter_has_mg
 
 ```
+
+#receipe #rezept #kochen #cooking #menü #special

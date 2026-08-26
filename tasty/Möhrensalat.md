@@ -6,7 +6,7 @@ Feine Küchenreibe.
 
 Möhren reiben.
 Äpfel reiben.
-Vll.t eine kleine Pastinake
+Vllt. eine kleine Pastinake
 
 Salz, Pfeffer, Prise Rohrzucker.
 Frischer Zitronensaft.

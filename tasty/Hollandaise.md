@@ -1,15 +1,16 @@
 
-200g Butter schmelzen
-abschöpfen
+#receipe #rezept #kochen #cooking #sauce #hollandaise
 
-geriebene Zwiebeln (check: fix vorher in Butter angebraten oder roh?)
-Pfeffer
-1 EL Weißweinessig
-2 EL Wasser
-dazugeben und fein sieben
+200g Butter schmelzen, abschöpfen.
 
-4 Eigelb + 1 EL Wasser quirlen
-dicklich aufschlagen
+- geriebene Zwiebeln (check: fix vorher in Butter angebraten oder roh?)
+- Pfeffer
+- 1 EL Weißweinessig
+- 2 EL Wasser
 
-Die warme Butter langsam einrühren
+Dazugeben und fein sieben.
+
+4 Eigelb + 1 EL Wasser quirlen, dicklich aufschlagen.
+
+Die warme Butter langsam einrühren.
 -> mit Zitronensaft und Salz abschmecken

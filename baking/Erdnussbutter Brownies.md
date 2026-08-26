@@ -28,5 +28,7 @@ Die Mischung wieder zurück in einen Topf geben und bei schwacher Hitze 2-3 Minu
 Den Backofen auf 180°C Ober- und Unterhitze vorheizen und eine rechteckige Backform (20 x 30 cm) mit Backpapier auslegen. Die Schokolade in Stücke brechen und die Butter bei schwacher Hitze in einer beschichteten Pfanne zerlassen. Die Schokolade in die Pfanne geben und solange unter Rühren schmelzen lassen, bis sie aufgelöst und glatt ist. Vom Herd nehmen und den Zucker untermischen.
 Die Masse etwas abkühlen lassen und dann nacheinander die Eier unter die Masse ziehen (unterheben), bis sie schön glänzt. Das Mehl darüber sieben und sorgfältig unterrühren.
 Die Brownie-Masse nun in die vorgefettete Form gießen und gleichmäßig verteilen. Die Erdnusscreme auf der Masse verteilen und die Creme mit einer Gabel spiralförmig unterziehen. Die Konfitüre querbeet in kleinen Klecksen auf der Brownie-Masse verteilen und die Himbeeren in den Teig drücken.
-Die Form in den vorgeheizten Ofen geben und für etwas 25 Minuten backen, bis die Masse außen fest geworden ist (Im optimalen Fall ist sie dann Innen noch leicht flüssig. Falls nicht, ist das aber auch kein Beinbruch, solange sie schön saftig ist.)
+Die Form in den vorgeheizten Ofen geben und für etwa 25 Minuten backen, bis die Masse außen fest geworden ist (Im optimalen Fall ist sie dann innen noch leicht flüssig. Falls nicht, ist das aber auch kein Beinbruch, solange sie schön saftig ist.)
 Nach 25 Minuten aus dem Ofen nehmen und ca. 1 Stunde auskühlen lassen.
+
+#receipe #rezept #kochen #cooking #backen #brownies #erdnussbutter #schokolade

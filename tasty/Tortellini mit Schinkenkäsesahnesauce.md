@@ -12,3 +12,5 @@
 - (Käse-) Tortellini in die Sauce geben
 - mit geriebenem Parmesan, gehacktem Basilikum und frischem Pfeffer bestreuen
 - servieren.
+
+#receipe #rezept #kochen #cooking #tortellini #pasta #sauce

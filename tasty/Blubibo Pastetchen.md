@@ -15,3 +15,5 @@
 - Habaneropulver & soviel Wasser wie nötig
 - braten & einkochen
 - TK-Schnittlauch unterheben & 1/4 gewürfelte Birne dazugeben & in Königinnenpastetchen servieren.
+
+#receipe #rezept #kochen #cooking #blutwurst #bohnen #pastete

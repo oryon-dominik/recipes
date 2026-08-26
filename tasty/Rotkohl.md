@@ -6,7 +6,7 @@
 ## Die Zutaten
 
 1 Kopf Rotkohl
-4-5 EL Essig (Weinessig, Balsamicoessig, Johanisbeeressig oder Apfelessig)
+4-5 EL Essig (Weinessig, Balsamicoessig, Johannisbeeressig oder Apfelessig)
 
 Salz
 
@@ -19,7 +19,7 @@ Gewürze:
 - Nelken
 - Lorbeer
 - Piment
-- Wachholder
+- Wacholder
 - Orangenschale
 zusammen stößeln oder mörsern
 

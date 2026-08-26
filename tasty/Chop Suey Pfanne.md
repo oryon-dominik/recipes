@@ -8,12 +8,14 @@
 	- Pilze
 	- Cherrytomaten
 	- Pakchoi
-	- roteZwiebeln
+	- rote Zwiebeln
 	- Chinakohl
 	- breite grüne Bohnen
 - Fake Egg oder Tofu (in dem salzigen "Parmesan"-artigen Pulver)
 - Glasnudeln oder Asianudeln
 
-Sauce: Maisstärke, Sojasauce, Reisessig, Algarvensirup oder Brauner Zucker
+Sauce: Maisstärke, Sojasauce, Reisessig, Agavensirup oder Brauner Zucker
 
 Große Portion und einfrieren
+
+#receipe #rezept #kochen #cooking #asiatisch #chopsuey #gemüse #wok

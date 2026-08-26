@@ -3,7 +3,7 @@ Unser Weihnachtsessen.
 
 #receipe #rezept #kochen #cooking #weihnachten #wild
 
-Benutzt die Rezepte [Hirschkalbsrücken](./Hirschkalbsrücken.md) für Fleisch und Saune und [Rotkohl](./Rotkohl.md).
+Benutzt die Rezepte [Hirschkalbsrücken](./Hirschkalbsrücken.md) für Fleisch und Sauce und [Rotkohl](./Rotkohl.md).
 
 Am _Tag vorher_ Sauce kochen & Rotkohl vorbereiten.
 Für den Rotkohl können noch die Orangenreste verwendet werden, die von dem vorbereiteten Weihnachtspunsch übrig sind.
@@ -31,7 +31,7 @@ Frische Spätzle in einem Topf in Butter braten.
 
 Pilze heiß in der Pfanne farbig anbraten.
 
-Die Kroketen unten in den Ofen (brauchen 20 Minuten und eigentlich 200°, die Temperatur erhöhen wir aber erst, wenn das Fleisch draußen ist).
+Die Kroketten unten in den Ofen (brauchen 20 Minuten und eigentlich 200°, die Temperatur erhöhen wir aber erst, wenn das Fleisch draußen ist).
 Fleisch in der Mitte in den Ofen bei 180°, auf 54° Kerntemperatur backen (wenn es richtig angebraten ist, geht das Ruck-Zuck in vielleicht zehn Minuten).
 Fleisch zehn Minuten ruhen lassen. Kroketten jetzt in die Mitte und Temperatur auf 200° erhöhen.
 

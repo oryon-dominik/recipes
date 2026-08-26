@@ -6,11 +6,11 @@ Rezept: Chili con carne
 - 2,5 kg Kidneybohnen
 - 2,5 kg Tomaten
 - 2,5 kg Rinderhack
-- 10 frische chilis
+- 10 frische Chilis
 - 5 große Zwiebeln
 - 1 Knoblauchzehe
 - Cocktailtomaten
-- 2x Creme Fraiche
+- 2x Crème fraîche
 - Helles Baguette
 
 (Schokolade als Geheimzutat?!)

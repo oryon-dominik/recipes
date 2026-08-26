@@ -9,13 +9,13 @@ Garnelen Selleriecurry
 - 2 TL Curry
 - grobes Meersalz
 - Pfeffer aus der Mühle
-- 12 Selleriestengel, geschält und in 5x 0,5 cm große Stifte geschnitten (grün für Garnitur aufheben)
+- 12 Selleriestangen, geschält und in 5x 0,5 cm große Stifte geschnitten (grün für Garnitur aufheben)
 - 120ml Hühnerbrühe
 - 1 EL Butter
 - Salz
 Garnitur
 - 1 großer Apfel, gewürfelt
-- 1 EL Olivernöl
+- 1 EL Olivenöl
 Sauce
 - 1 Selleriestange
 - 1 Handvoll Blattspinat, gewaschen
@@ -26,13 +26,13 @@ Sauce
 ## Zubereitung
 
 ### Sellerie
-Selleriestifte in kochendem Salzwassser zwei Minuten blanchieren, abgießen, in Eiswasser abkühlen
+Selleriestifte in kochendem Salzwasser zwei Minuten blanchieren, abgießen, in Eiswasser abkühlen
 Hühnerbrühe in Edelstahlpfanne mit Butter zum Kochen bringen.
 Sellerie zugeben, salzen & pfeffern, weich schmoren.
 
 ### Garnitur
 Apfelwürfel in heißem Öl unter Wenden anbraten
-Seleriegrün, in vier Teile und in heißem Öl fritieren
+Selleriegrün, in vier Teile und in heißem Öl frittieren
 
 ### Sauce
 Saft von Selleriestange und Spinat in Entsafter extrahieren. In kleinem Topf aufkochen und mit Salz, Pfeffer, Zucker würzen und mit Handmixer und kalter Butter aufschlagen.

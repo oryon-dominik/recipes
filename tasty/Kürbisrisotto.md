@@ -20,6 +20,6 @@ Evtl. passen noch geröstete Pinienkerne?
 Mit Petersilienblättern dekorieren.
 Pfeffern.
 
-Voilá
+Voilà
 
 #receipe #rezept #kochen #cooking #risotto

@@ -1,5 +1,5 @@
 
-#receipe #rezept #kochen #cooking 
+#receipe #rezept #kochen #cooking #backen #nussecken #nüsse
 
 Von Isabella (irgendwo online abgeguckt)
 
@@ -12,7 +12,7 @@ Von Isabella (irgendwo online abgeguckt)
 ## Belag
 200g Marzipanrohmasse
 2 EL Baileys
-400g Walnüsse und Haselnüße, gehackt & gemahlen, sowie geröstet
+400g Walnüsse und Haselnüsse, gehackt & gemahlen, sowie geröstet
 150g Butter
 100g Creme Fraîche
 150 g Zucker
