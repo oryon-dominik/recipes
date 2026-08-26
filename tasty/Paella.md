@@ -1,5 +1,5 @@
 
-geteilt von 2023-05-10 13:53 Eckert, Andreas
+geteilt von 2023-05-10 13:53 E., Andreas
 
 ## Paella Rezept
 
@@ -42,4 +42,4 @@ Dann Bohnen oder Erbsen dazugeben und einmal alles gut durchrühren. Die Paella 
 
 Paella ist fertig wenn die gesamte Flüssigkeit weg ist und der Reis „etwas“ in der Mitte am Boden angebacken ist. Vor dem Servieren die Zitronen in die Paella legen. 
 
-wobei wir da noch Kaninchen Dtücke dazu tun
+wobei wir da noch Kaninchen Stücke dazu tun

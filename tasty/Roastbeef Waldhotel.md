@@ -1,4 +1,4 @@
-aus dem Kochkurs mit Wolfgang Tabel im Waldhotel Heiligenhaus vom [[2023-03-22]]
+aus dem Kochkurs mit Wolfgang T. im Waldhotel Heiligenhaus vom [[2023-03-22]]
 
 Roastbeef am Stück, rosa gebraten
 an Rotweinsauce,
