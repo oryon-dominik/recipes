@@ -128,9 +128,9 @@ Reduzieren, in Eiswürfelformen.. verpacken
 In Olivenöl + Butter jede Menge Zwiebeln karamellisieren und am Ende mit Fonds löschen.
 Dann Butter reinziehen, und Spritzer Sherryessig.
 
-Dazu Geröstete Crostini-Brote mit geriebenem Käse - Grier & Compte
+Dazu Geröstete Crostini-Brote mit geriebenem Käse - Gruyère & Comté
 
-Fleisch mit Grier in Backformen und der Sauce unter Grill überbacken.
+Fleisch mit Gruyère in Backformen und der Sauce unter Grill überbacken.
 
 
 ## Gemüsefonds

@@ -21,5 +21,5 @@ Und noch eins.
 Durchwürzen.
 Bei 200° medium rare auf 131 °F (≈ 55 °C) Kerntemperatur backen.
 Dann in Alufolie einpacken und 15-20 Minuten ruhen lassen.
-(Hier ist nicht genau klar, ob im 250° heißen Ofen oder nicht, jedenfalls gewinnt es in der Zeit nochmal ca. 7 °F Kerntemperatur dazu) ---
+(Hier ist nicht genau klar, ob im 250° heißen Ofen oder nicht, jedenfalls gewinnt es in der Zeit nochmal ca. 7 °F (≈ 4 °C) Kerntemperatur dazu) ---
 Dann abtupfen und jede(!) Seite 90 Sekunden in sehr heißem Öl fertig braten.

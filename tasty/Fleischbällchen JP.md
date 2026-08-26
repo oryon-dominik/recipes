@@ -17,7 +17,7 @@ Erst Zwiebeln dann Knoblauch, mit Tomatenmark löschen und viele Tomaten mit Bas
 Nun Fleischbällchen runder formen, frisch pfeffern.
 In heißem (175°) Öl braun braten, von allen Seiten - mit Zange wenden.
 
-Dann für ~ 40 Minuten in den Top (Kerntemperatur mind. 65°)
+Dann für ~ 40 Minuten in den Topf (Kerntemperatur mind. 65°)
 
 Fertige Spaghetti kurz in einer Pfanne mit etwas Butter, Parmesan, Salz, Pfeffer und ein, zwei (großen) Löffeln der Sauce schwenken. Frisches Basilikum hinzu.
 
